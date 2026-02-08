@@ -21,6 +21,8 @@
 
 Целевая переменная — **общая калорийность блюда (total_calories)**.
 
+![Dish Example](data/view_dishes.png)
+
 ---
 
 ## Структура проекта
